@@ -27,4 +27,4 @@ Goals
 
 Connect With Me
 
-- GitHub: "My GitHub Profile" (https://github.com/)
+- GitHub: "My GitHub Profile" (https://https://github.com/goukarmahesh0/)
